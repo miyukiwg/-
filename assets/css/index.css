@@ -31,7 +31,7 @@ body {
 .container .side {
   position: absolute;
   width: 20rem;
-  background: #fff;
+  background: #F0F8FF;
   border-radius: 5px;
   box-shadow: 0 5px 20px #bbb;
   box-sizing: border-box;
@@ -101,7 +101,7 @@ body {
 .container .main {
   position: relative;
   margin-left: 22rem;
-  background: #fff;
+  background: #F0F8FF;
   border-radius: 5px;
   box-shadow: 0 5px 20px #bbb;
   box-sizing: border-box;
